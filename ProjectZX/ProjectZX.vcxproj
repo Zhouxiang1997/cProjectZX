@@ -127,6 +127,7 @@
     <ClCompile Include="打印.c" />
     <ClCompile Include="替换.c" />
     <ClCompile Include="注释.c" />
+    <ClCompile Include="源.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="hehe.h" />
